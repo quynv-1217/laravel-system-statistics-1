@@ -2,6 +2,8 @@
 
 The ```vanquynguyen/laravel-system-statistics``` package provides easy to use functions to collect the system statistics of your app. The Package collects all data in the ```system_statistics``` table.
 
+[![Latest Version on Packagist](http://img.shields.io/static/v1?label=packagist&message=v.1.0.0&color=%3CCOLOR%3E)](https://packagist.org/packages/vanquynguyen/laravel-system-statistics)
+
 # Installation
 You can install the package via composer:
 ```
